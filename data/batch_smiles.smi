@@ -1,0 +1,4 @@
+SMILES	mol_id	LOGP	MW
+C1=CC=CC=CC=C1	No_0	2.22	104.06
+c1ccccc1	No_1	1.69	78.05
+c1cocc1	No_2	1.28	68.03

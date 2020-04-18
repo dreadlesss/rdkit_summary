@@ -1,0 +1,6 @@
+Name,SMILES
+Lanreotide,c1(c2c(cccc2)[nH]c1)C[C@@H]1NC(=O)[C@@H](Cc2ccc(O)cc2)NC([C@@H](CSSC[C@@H](NC([C@@H](NC([C@@H](NC1=O)CCCCN)=O)C(C)C)=O)C(N[C@@H]([C@@H](C)O)C(=O)N)=O)NC(=O)[C@@H](N)Cc1ccc2c(c1)cccc2)=O
+Lansoprazole,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c2nc3ccccc3[nH]2
+Laromustine,CS(=O)(=O)[N@@](N(S(=O)(=O)C)C(=O)NC)CCCl
+Laropiprant,CS(=O)(=O)c1cc(cc2c1n(c3c2CC[C@@H]3CC(=O)O)Cc4ccc(cc4)Cl)F
+Larotaxel,O=C1[C@@]23[C@@H]([C@@]4(OC(=O)C)[C@@H](C[C@@H]2C3)OC4)[C@H](OC(=O)c2ccccc2)[C@]2(C(C(=C(C)[C@H](C2)OC(=O)[C@@H]([C@@H](NC(=O)OC(C)(C)C)c2ccccc2)O)C1OC(=O)C)(C)C)O
