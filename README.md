@@ -6,3 +6,6 @@ rdkit总结与记录
 
 ## 3D构象生成
 **3D_conformers_generation.ipynb**
+
+## 高亮展示分子中匹配的子结构
+**substructure_search_and_highlight**
