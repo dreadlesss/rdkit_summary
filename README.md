@@ -15,3 +15,6 @@ rdkit总结与记录
 
 ## SMARTS规则速查表
 **SMARTS_cheatsheet.md**
+
+## 子结构删除、替换、切割操作
+**substructure_delete_replace_split.ipynb**
