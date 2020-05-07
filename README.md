@@ -18,3 +18,6 @@ rdkit总结与记录
 
 ## 子结构删除、替换、切割操作
 **substructure_delete_replace_split.ipynb**
+
+## 摩根分子指纹计算、提取、可视化
+**Morgan_Fingerprints_generate_visualize.ipynb**
