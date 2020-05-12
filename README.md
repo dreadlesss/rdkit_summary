@@ -21,3 +21,6 @@ rdkit总结与记录
 
 ## 摩根分子指纹计算、提取、可视化
 **Morgan_Fingerprints_generate_visualize.ipynb**
+
+## 最大公共子结构，MCS搜索与参数介绍
+**MCS.ipynb**
