@@ -24,3 +24,6 @@ rdkit总结与记录
 
 ## 最大公共子结构，MCS搜索与参数介绍
 **MCS.ipynb**
+
+## 各类分子指纹、相似性度量、多样化分子库构建
+**FP_similarity_and_application.ipynb**
