@@ -27,3 +27,6 @@ rdkit总结与记录
 
 ## 各类分子指纹、相似性度量、多样化分子库构建
 **FP_similarity_and_application.ipynb**
+
+## 分子描述符计算与可视化
+**descriptor_calculate_visualize.ipynb**
