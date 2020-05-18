@@ -30,3 +30,6 @@ rdkit总结与记录
 
 ## 分子描述符计算与可视化
 **descriptor_calculate_visualize.ipynb**
+
+## 化学特征、药效团提取与2D药效团指纹计算
+**features_pharmacophores_2D_FP.ipynb**
