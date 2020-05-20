@@ -33,3 +33,6 @@ rdkit总结与记录
 
 ## 化学特征、药效团提取与2D药效团指纹计算
 **features_pharmacophores_2D_FP.ipynb**
+
+## 分子片段、片段指纹、指纹重要性分析
+**fragments_FP_and_analysis.ipynb**
