@@ -36,3 +36,6 @@ rdkit总结与记录
 
 ## 分子片段、片段指纹、指纹重要性分析
 **fragments_FP_and_analysis.ipynb**
+
+## 骨架分解、侧链分离
+**scaffold_and_side_chain_decomposition.ipynb**
