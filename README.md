@@ -39,3 +39,6 @@ rdkit总结与记录
 
 ## 骨架分解、侧链分离
 **scaffold_and_side_chain_decomposition.ipynb**
+
+## 化学反应操作与处理
+**chemical_reaction.ipynb**
