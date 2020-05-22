@@ -45,3 +45,6 @@ rdkit总结与记录
 
 ## 在化学反应中对原子进行保护
 **protect_atoms_in_reaction.ipynb**
+
+## 通过Recap和BRICS进行分子拆解与合成
+**recap_brics_decompose_build.ipynb**
