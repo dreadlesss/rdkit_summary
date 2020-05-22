@@ -42,3 +42,6 @@ rdkit总结与记录
 
 ## 化学反应操作与处理
 **chemical_reaction.ipynb**
+
+## 在化学反应中对原子进行保护
+**protect_atoms_in_reaction.ipynb**
