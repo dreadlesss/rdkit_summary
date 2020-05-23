@@ -48,3 +48,6 @@ rdkit总结与记录
 
 ## 通过Recap和BRICS进行分子拆解与合成
 **recap_brics_decompose_build.ipynb**
+
+## 原子、键、环操作与药效团查找
+**atom_bond_ring_and_pharmacophore_search.ipynb**
