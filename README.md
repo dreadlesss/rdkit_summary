@@ -51,3 +51,6 @@ rdkit总结与记录
 
 ## 原子、键、环操作与药效团查找
 **atom_bond_ring_and_pharmacophore_search.ipynb**
+
+## 分子修改与编辑
+**modifying_molecules。ipynb**
