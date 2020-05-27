@@ -54,3 +54,6 @@ rdkit总结与记录
 
 ## 分子修改与编辑
 **modifying_molecules。ipynb**
+
+## 使用psycopg2操作postgresql数据库
+**postgresql_by_psycopg2.ipynb**
