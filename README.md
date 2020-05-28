@@ -53,7 +53,7 @@ rdkit总结与记录
 **atom_bond_ring_and_pharmacophore_search.ipynb**
 
 ## 分子修改与编辑
-**modifying_molecules。ipynb**
+**modifying_molecules.ipynb**
 
 ## python操作postgresql数据库与自动导入分子
 **postgresql_by_psycopg2.ipynb**
