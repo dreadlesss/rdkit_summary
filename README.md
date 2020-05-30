@@ -60,3 +60,6 @@ rdkit总结与记录
 
 ## 在PostgreSQL中进行分子结构搜索与查询
 **postgresql_substructure_search.ipynb**
+
+## 在PostgreSQL中进行分子相似性搜索
+**postgresql_similarity_search.ipynb**
