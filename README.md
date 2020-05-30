@@ -59,4 +59,4 @@ rdkit总结与记录
 **postgresql_by_psycopg2.ipynb**
 
 ## 在PostgreSQL中进行分子结构搜索与查询
-**postgresql_substruction_search.ipynb**
+**postgresql_substructure_search.ipynb**
