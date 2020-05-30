@@ -57,3 +57,6 @@ rdkit总结与记录
 
 ## python操作postgresql数据库与自动导入分子
 **postgresql_by_psycopg2.ipynb**
+
+## 在PostgreSQL中进行分子结构搜索与查询
+**postgresql_substruction_search.ipynb**
