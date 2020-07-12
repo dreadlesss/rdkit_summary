@@ -63,3 +63,6 @@ rdkit总结与记录
 
 ## 在PostgreSQL中进行分子相似性搜索
 **postgresql_similarity_search.ipynb**
+
+## 使用rdMolDraw2D模块设置并绘制分子
+**rdMolDraw2D_for_png_svg.ipynb**
